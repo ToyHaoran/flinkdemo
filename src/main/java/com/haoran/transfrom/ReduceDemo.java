@@ -1,4 +1,4 @@
-package com.haoran.aggreagte;
+package com.haoran.transfrom;
 
 import com.haoran.bean.WaterSensor;
 import org.apache.flink.api.common.functions.ReduceFunction;
