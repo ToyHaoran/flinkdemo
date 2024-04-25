@@ -49,6 +49,12 @@
             <version>${flink.version}</version>
         </dependency>
 
+        <!-- mysql连接器依赖  -->
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-connector-jdbc</artifactId>
+            <version>3.1.2-1.17</version>
+        </dependency>
 
     </dependencies>
 
